@@ -20,3 +20,7 @@ See "Help -> User guide" menu in the program.
 ## More information
 
 See "Help -> About" menu in the program.
+
+## Oct20,2022 update
+
+see release.
